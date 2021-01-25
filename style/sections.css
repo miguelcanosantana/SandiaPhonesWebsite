@@ -1,0 +1,42 @@
+/* 0 - General Page - 0 */
+body {
+}
+
+
+/* 1 - Logo Section - 1 */
+#section1Logo {
+  background-image: url("../img/background.jpg");
+  width: auto;
+  height: 1080px;
+  text-align: center;
+  position: relative; /* For make z-index work */
+  z-index: 100; /* For hidden bar */
+}
+
+#bigLogo {
+  margin-left: 92px;
+  margin-top: 0px;
+}
+
+
+/* 2 - Qo Green/Black Section - 2 */
+#section2Background {
+  background-image: url("../img/background2.jpg");
+  background-attachment: fixed;
+  width: auto;
+  height: 1080px;
+} 
+
+#section2Qo {
+  width: auto;
+  height: 1080px;
+  text-align: center;
+}
+
+#section2Content {
+  margin-top: -900px;
+}
+
+#qoComplete {
+  margin-left: -200px;
+}

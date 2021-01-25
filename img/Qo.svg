@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="694" height="733.5" viewBox="0 0 694 733.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b7ffdb"/>
+      <stop offset="1" stop-color="#828282"/>
+    </linearGradient>
+    <filter id="Rectángulo_18" x="379" y="106" width="315" height="627.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="46" height="167" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9a9a9a"/>
+      <stop offset="1" stop-color="#242424"/>
+    </radialGradient>
+    <filter id="Rectángulo_17" x="0" y="0" width="315" height="627.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" y1="0.415" x2="1" y2="0.415" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#242424"/>
+      <stop offset="1" stop-color="#424242"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect width="42" height="17" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_6" data-name="Grupo 6" transform="translate(-134.5 -1242)">
+    <g id="Grupo_4" data-name="Grupo 4">
+      <g transform="matrix(1, 0, 0, 1, 134.5, 1242)" filter="url(#Rectángulo_18)">
+        <g id="Rectángulo_18-2" data-name="Rectángulo 18" transform="translate(386.5 106)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+          <rect width="300" height="600" rx="30" stroke="none"/>
+          <rect x="0.5" y="0.5" width="299" height="599" rx="29.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Rectángulo_20" data-name="Rectángulo 20" transform="translate(643 1368)" fill="#383838" stroke="#707070" stroke-width="1">
+        <rect width="57" height="169" rx="28.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="56" height="168" rx="28" fill="none"/>
+      </g>
+      <g id="Repetir_cuadrícula_3" data-name="Repetir cuadrícula 3" transform="translate(649 1377)" clip-path="url(#clip-path)">
+        <g transform="translate(-1683 -85)">
+          <g id="Elipse_5" data-name="Elipse 5" transform="translate(1683 85)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+            <circle cx="23" cy="23" r="23" stroke="none"/>
+            <circle cx="23" cy="23" r="22.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-1683 -32)">
+          <g id="Elipse_5-2" data-name="Elipse 5" transform="translate(1683 85)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+            <circle cx="23" cy="23" r="23" stroke="none"/>
+            <circle cx="23" cy="23" r="22.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-1683 21)">
+          <g id="Elipse_5-3" data-name="Elipse 5" transform="translate(1683 85)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+            <circle cx="23" cy="23" r="23" stroke="none"/>
+            <circle cx="23" cy="23" r="22.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <path id="Trazado_6" data-name="Trazado 6" d="M2864.373,398.153c-57.04-39.027-60.042-79.555-42.029-85.56S2864.373,398.153,2864.373,398.153Z" transform="translate(-2226 1140)" fill="#383838"/>
+      <path id="Trazado_7" data-name="Trazado 7" d="M2812.556,398.153c57.04-39.027,60.042-79.555,42.03-85.56S2812.556,398.153,2812.556,398.153Z" transform="translate(-2113 1139)" fill="#383838"/>
+      <text id="sandia" transform="translate(629 1565)" fill="#242424" font-size="30" font-family="TrebuchetMS, Trebuchet MS"><tspan x="0" y="0">sandia</tspan></text>
+      <g id="Rectángulo_22" data-name="Rectángulo 22" transform="translate(707 1377)" fill="#383838" stroke="#707070" stroke-width="1">
+        <rect width="15" height="46" rx="7.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="45" rx="7" fill="none"/>
+      </g>
+      <g id="Elipse_8" data-name="Elipse 8" transform="translate(709 1380)" stroke="#707070" stroke-width="0.75" fill="url(#radial-gradient)">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5.125" fill="none"/>
+      </g>
+      <g id="Elipse_9" data-name="Elipse 9" transform="translate(709 1410)" fill="#e3e3e3" stroke="#9a9a9a" stroke-width="0.4">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5.3" fill="none"/>
+      </g>
+      <g id="Elipse_10" data-name="Elipse 10" transform="translate(709 1395)" fill="#f3facf" stroke="#9a9a9a" stroke-width="0.4">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5.3" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_5" data-name="Grupo 5">
+      <g transform="matrix(1, 0, 0, 1, 134.5, 1242)" filter="url(#Rectángulo_17)">
+        <g id="Rectángulo_17-2" data-name="Rectángulo 17" transform="translate(7.5)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+          <rect width="300" height="600" rx="30" stroke="none"/>
+          <rect x="0.5" y="0.5" width="299" height="599" rx="29.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Rectángulo_19" data-name="Rectángulo 19" transform="translate(149 1262)" stroke="#242424" stroke-width="1" fill="url(#linear-gradient-3)">
+        <rect width="286" height="572" rx="30" stroke="none"/>
+        <rect x="0.5" y="0.5" width="285" height="571" rx="29.5" fill="none"/>
+      </g>
+      <g id="Repetir_cuadrícula_4" data-name="Repetir cuadrícula 4" transform="translate(177 1244)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-1067 -56)">
+          <g id="Elipse_5-4" data-name="Elipse 5" transform="translate(1067 56)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+            <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+            <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-1043 -56)">
+          <g id="Elipse_5-5" data-name="Elipse 5" transform="translate(1067 56)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+            <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+            <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <path id="Icon_material-fingerprint" data-name="Icon material-fingerprint" d="M43.38,9.484a1.219,1.219,0,0,1-.6-.157,30.035,30.035,0,0,0-14.621-3.7,30.031,30.031,0,0,0-14.621,3.7,1.316,1.316,0,0,1-1.26-2.31,33.4,33.4,0,0,1,31.71-.026,1.329,1.329,0,0,1-.6,2.494ZM5.816,23.265a1.368,1.368,0,0,1-.761-.236,1.309,1.309,0,0,1-.315-1.837,27.14,27.14,0,0,1,9.844-8.584,30.3,30.3,0,0,1,27.064-.026,27.243,27.243,0,0,1,9.844,8.531,1.318,1.318,0,1,1-2.152,1.522,24.643,24.643,0,0,0-8.9-7.717,27.66,27.66,0,0,0-24.675.026,24.9,24.9,0,0,0-8.925,7.77,1.144,1.144,0,0,1-1.024.551ZM22.222,54.949a1.231,1.231,0,0,1-.919-.394,26.537,26.537,0,0,1-5.276-6.93,23.3,23.3,0,0,1-2.756-11.393c0-7.8,6.667-14.149,14.858-14.149s14.858,6.352,14.858,14.149a1.313,1.313,0,0,1-2.625,0c0-6.352-5.486-11.524-12.233-11.524S15.9,29.88,15.9,36.232a20.565,20.565,0,0,0,2.441,10.106,24.847,24.847,0,0,0,4.856,6.353,1.348,1.348,0,0,1,0,1.864A1.44,1.44,0,0,1,22.222,54.949Zm18.821-4.856a14.136,14.136,0,0,1-8.137-2.336,13.976,13.976,0,0,1-6.248-11.524,1.313,1.313,0,0,1,2.625,0,11.29,11.29,0,0,0,5.092,9.345,11.51,11.51,0,0,0,6.668,1.864,17.348,17.348,0,0,0,2.73-.262,1.318,1.318,0,1,1,.446,2.6,17.926,17.926,0,0,1-3.176.315ZM35.767,55.5a1.536,1.536,0,0,1-.341-.052,20.481,20.481,0,0,1-9.765-5.513,19.154,19.154,0,0,1-5.7-13.7,7.916,7.916,0,0,1,8.085-7.717,7.916,7.916,0,0,1,8.085,7.717,5.473,5.473,0,0,0,10.92,0c0-9.9-8.531-17.929-19.031-17.929A19.164,19.164,0,0,0,10.672,28.883a16.887,16.887,0,0,0-1.549,7.35,26.086,26.086,0,0,0,1.759,9.476,1.281,1.281,0,0,1-.761,1.68,1.3,1.3,0,0,1-1.68-.761,29.244,29.244,0,0,1-1.916-10.4A19.721,19.721,0,0,1,8.31,27.728,21.785,21.785,0,0,1,28.024,15.653c11.944,0,21.656,9.214,21.656,20.554a8.094,8.094,0,0,1-16.17,0,5.286,5.286,0,0,0-5.46-5.092,5.286,5.286,0,0,0-5.46,5.092A16.531,16.531,0,0,0,27.5,48.045,17.85,17.85,0,0,0,36.082,52.9,1.3,1.3,0,0,1,37,54.5,1.281,1.281,0,0,1,35.767,55.5Z" transform="translate(263.704 1736.5)" fill="#16db7a" stroke="#16c1db" stroke-width="1"/>
+      <g id="Rectángulo_23" data-name="Rectángulo 23" transform="translate(257 1248)" fill="#383838" stroke="#707070" stroke-width="1">
+        <rect width="70" height="9" rx="4.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="69" height="8" rx="4" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

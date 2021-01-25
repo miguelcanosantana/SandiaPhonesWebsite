@@ -3,9 +3,85 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Sandía</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style/statusbar.css">
+  <link rel="stylesheet" href="style/buttons.css">
+  <link rel="stylesheet" href="style/sections.css">
+  <link rel="stylesheet" href="style/page_specific.css">
+
 </head>
 <body>
+
+
+  <!-- Hidden NavBar-->
+  <div id="hiddenNav"></div>
+
+  
+  <!-- Start Section with Logo -->
+  <div id="section1Logo">
+
+    <img id="bigLogo" src="img/BigLogo.svg" alt="logo">
+
+    <!-- Buttons -->
+    <div class="container" id="logoButtons">
+      <div class="row">
+
+        <div class="col-3">
+          <button type="button" class="btn btn-dark btn-of-logo btn-lg">
+            <i class="bi-headphones"></i>
+            Support
+          </button>
+        </div>
+
+        <div class="col-6">
+        </div>
+
+        <div class="col-3">
+          <button type="button" class="btn btn-dark btn-of-logo btn-lg">
+            <i class="bi-cart"></i>
+            Shop Cart
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <!-- Qo Green/Black Section -->
+  <div id="section2Qo">
+
+    <div id="section2Background"></div>
+
+    <!-- 2 Sides and 1 center -->
+    <div id="section2Content" class="container">
+      <div class="row">
+
+        <!--Left (Mobile)-->
+        <div class="col-5">
+          <img id="qoComplete" src="img/Qo.svg" alt="phone">
+        </div>
+
+        <!-- Center -->
+        <div class="col-2">
+        </div>
+
+        <div class="col-5">
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
   
 </body>
 </html>
