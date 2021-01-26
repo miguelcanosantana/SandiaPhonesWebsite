@@ -1,0 +1,18 @@
+.device-name {
+  font-size: 100px;
+  color: #16DB7A;
+  text-align: left;
+
+}
+
+.device-slogan {
+  font-size: 50px;
+  color: #16DB7A;
+  text-align: left;
+}
+
+.device-specs {
+  font-size: 20px;
+  color: #E1E1E1;
+  text-align: left;
+}

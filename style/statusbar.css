@@ -1,9 +1,11 @@
-/* 1 - Hidden Nav Bar on Start Page */
+/* 0 - Hidden Nav Bar on Start Page - 0 */
 #hiddenNav {
-  background-color: aqua;
-  height: 60px;
-  width: 50%;
+  background-color: #6e6e6e94;
+  height: 70px;
+  width: 49.72%;
   position: fixed;
   z-index: 10;
-  margin-top: calc(100vh - 60px);
+  margin-top: calc(100vh - 70px);
+  backdrop-filter: blur(10px);
+
 }
