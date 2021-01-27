@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315" height="627.5" viewBox="0 0 315 627.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b7ffdb"/>
+      <stop offset="1" stop-color="#828282"/>
+    </linearGradient>
+    <filter id="Rectángulo_104" x="0" y="0" width="315" height="627.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="46" height="167" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9a9a9a"/>
+      <stop offset="1" stop-color="#242424"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_2" data-name="Grupo 2" transform="translate(-1188.5 -809)">
+    <g transform="matrix(1, 0, 0, 1, 1188.5, 809)" filter="url(#Rectángulo_104)">
+      <g id="Rectángulo_104-2" data-name="Rectángulo 104" transform="translate(7.5)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+        <rect width="300" height="600" rx="30" stroke="none"/>
+        <rect x="0.5" y="0.5" width="299" height="599" rx="29.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectángulo_105" data-name="Rectángulo 105" transform="translate(1318 829)" fill="#383838" stroke="#707070" stroke-width="1">
+      <rect width="57" height="169" rx="28.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="56" height="168" rx="28" fill="none"/>
+    </g>
+    <g id="Repetir_cuadrícula_8" data-name="Repetir cuadrícula 8" transform="translate(1324 838)" clip-path="url(#clip-path)">
+      <g transform="translate(-1683 -85)">
+        <g id="Elipse_5" data-name="Elipse 5" transform="translate(1683 85)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+          <circle cx="23" cy="23" r="23" stroke="none"/>
+          <circle cx="23" cy="23" r="22.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1683 -32)">
+        <g id="Elipse_5-2" data-name="Elipse 5" transform="translate(1683 85)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+          <circle cx="23" cy="23" r="23" stroke="none"/>
+          <circle cx="23" cy="23" r="22.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-1683 21)">
+        <g id="Elipse_5-3" data-name="Elipse 5" transform="translate(1683 85)" stroke="#707070" stroke-width="1" fill="url(#radial-gradient)">
+          <circle cx="23" cy="23" r="23" stroke="none"/>
+          <circle cx="23" cy="23" r="22.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_20" data-name="Trazado 20" d="M2864.373,398.153c-57.04-39.027-60.042-79.555-42.029-85.56S2864.373,398.153,2864.373,398.153Z" transform="translate(-1551 601)" fill="#383838"/>
+    <path id="Trazado_21" data-name="Trazado 21" d="M2812.556,398.153c57.04-39.027,60.042-79.555,42.03-85.56S2812.556,398.153,2812.556,398.153Z" transform="translate(-1438 600)" fill="#383838"/>
+    <text id="sandia" transform="translate(1304 1026)" fill="#242424" font-size="30" font-family="TrebuchetMS, Trebuchet MS"><tspan x="0" y="0">sandia</tspan></text>
+    <g id="Rectángulo_106" data-name="Rectángulo 106" transform="translate(1382 838)" fill="#383838" stroke="#707070" stroke-width="1">
+      <rect width="15" height="46" rx="7.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="14" height="45" rx="7" fill="none"/>
+    </g>
+    <g id="Elipse_30" data-name="Elipse 30" transform="translate(1384 841)" stroke="#707070" stroke-width="0.75" fill="url(#radial-gradient)">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="5.125" fill="none"/>
+    </g>
+    <g id="Elipse_31" data-name="Elipse 31" transform="translate(1384 871)" fill="#e3e3e3" stroke="#9a9a9a" stroke-width="0.4">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="5.3" fill="none"/>
+    </g>
+    <g id="Elipse_32" data-name="Elipse 32" transform="translate(1384 856)" fill="#f3facf" stroke="#9a9a9a" stroke-width="0.4">
+      <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+      <circle cx="5.5" cy="5.5" r="5.3" fill="none"/>
+    </g>
+  </g>
+</svg>

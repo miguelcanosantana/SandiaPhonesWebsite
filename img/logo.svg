@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="663.5" height="663.5" viewBox="0 0 663.5 663.5">
+  <defs>
+    <filter id="Elipse_21" x="0.5" y="0.5" width="663" height="663" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_22" x="0" y="0" width="663" height="663" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-opacity="0.69"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="SANDIA" x="172.5" y="272.5" width="318" height="127" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-628.5 3.5)">
+    <g transform="matrix(1, 0, 0, 1, 628.5, -3.5)" filter="url(#Elipse_21)">
+      <circle id="Elipse_21-2" data-name="Elipse 21" cx="211.5" cy="211.5" r="211.5" transform="translate(120.5 120.5)" fill="#0c5a34"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 628.5, -3.5)" filter="url(#Elipse_22)">
+      <circle id="Elipse_22-2" data-name="Elipse 22" cx="183" cy="183" r="183" transform="translate(148.5 148.5)" fill="#ff7f6e"/>
+    </g>
+    <path id="Trazado_14" data-name="Trazado 14" d="M2831.827,346.773c-21.213-15.668-22.33-31.938-15.631-34.349S2831.827,346.773,2831.827,346.773Z" transform="translate(-1946.982 -54.732)" fill="#242424"/>
+    <path id="Trazado_15" data-name="Trazado 15" d="M2812.556,346.773c21.213-15.668,22.33-31.938,15.631-34.349S2812.556,346.773,2812.556,346.773Z" transform="translate(-1770.982 -54.732)" fill="#242424"/>
+    <g transform="matrix(1, 0, 0, 1, 628.5, -3.5)" filter="url(#SANDIA)">
+      <text id="SANDIA-2" data-name="SANDIA" transform="translate(181.5 366.5)" fill="#242424" font-size="94" font-family="TrebuchetMS, Trebuchet MS"><tspan x="0" y="0">SANDIA</tspan></text>
+    </g>
+  </g>
+</svg>

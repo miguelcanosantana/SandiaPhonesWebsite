@@ -38,7 +38,7 @@
 
 
 /* 2 - Buy Button - 2 */
-#btnBuyQo {
+.btn-buy-qo {
   position: relative;
   right: 200px;
   bottom: 100px;
@@ -52,4 +52,51 @@
   margin-top: 8px;
 }
 
+
+/* 3 - Support Buttons - 3 */
+.btn-support {
+  position: relative;
+  bottom: 100px;
+  background-color: #16DB7A;
+  color: #242424;
+  font-size: 45px;
+  border-radius: 50px;
+  box-shadow: 0px 5px 10px -4px rgba(0,0,0,0.75);
+  margin-top: 8px;
+}
+
+
+/* 4 - Cart Buttons - 4 */
+.shop-butt {
+  text-align: center;
+  font-size: 40px;
+  box-shadow: 0px 5px 10px -4px rgba(0,0,0,0.75);
+}
+
+.shop-butt-start {
+  border-radius: 50px 0px 0px 50px !important;
+  min-height: 70px;
+  font-weight: bolder;
+}
+
+.shop-butt-mid {
+  border-radius: 0px !important;
+  font-weight: bolder;
+  max-width: 100px;
+}
+
+.shop-butt-end {
+  border-radius: 0px 50px 50px 0px !important;
+  font-weight: bolder;
+}
+
+.shop-butt-green {
+  background-color: #16DB7A;
+  color: #242424;
+}
+
+.shop-butt-red {
+  background-color: #FF7F6E;
+  color: #242424;
+}
 

@@ -2,7 +2,12 @@
   font-size: 100px;
   color: #16DB7A;
   text-align: left;
+}
 
+.device-name-alt {
+  font-size: 100px;
+  color: #FF7F6E;
+  text-align: left;
 }
 
 .device-slogan {
@@ -15,4 +20,28 @@
   font-size: 20px;
   color: #E1E1E1;
   text-align: left;
+}
+
+.device-shopping-card {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #6e6e6e94;
+  backdrop-filter: blur(10px);
+  padding: 25px;
+  width: 1200px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: calc(83% - 1200px);
+}
+
+.device-shopping-specs {
+  text-align: center;
+  font-size: 25px;
+  color: aliceblue;
+}
+
+.device-shopping-price {
+  font-size: 70px;
+  color: aliceblue;
 }
