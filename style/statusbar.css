@@ -7,5 +7,19 @@
   z-index: 10;
   margin-top: calc(100vh - 70px);
   backdrop-filter: blur(10px);
+  border-radius: 10px 10px 0px 0px;
+}
 
+/* 1 - Main Status Bar - 1 */
+.statusBar {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+}
+
+.extra-space {
+  width: 1100px;
+}
+
+.navbar-brand {
+  font-size: 30px;
 }
